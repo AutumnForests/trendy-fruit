@@ -16,3 +16,19 @@ html {
 *, *::before, *::after {
   box-sizing: inherit;
 }
+
+.watermelon {
+  font-family: 'Rammetto One', cursive;
+}
+
+.starfruit {
+  font-family: 'Gravitas One', cursive;
+}
+
+.persimmon {
+  font-family: 'Comfortaa', cursive;
+}
+
+p {
+  font-family: 'Open Sans', sans-serif;
+}
