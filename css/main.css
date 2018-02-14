@@ -18,7 +18,8 @@ html {
 }
 
 body {
-    font-family: "Open Sans", sans-serif;
+  font-family: "Open Sans", sans-serif;
+  margin: none;
 }
 
 .card-one {
@@ -42,5 +43,5 @@ body {
 }
 
 .persimmon {
-  font-family: "Comfortaa", cursive;
+  font-family: Comfortaa, cursive;
 }
