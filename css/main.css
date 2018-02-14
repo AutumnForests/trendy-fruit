@@ -17,6 +17,18 @@ html {
   box-sizing: inherit;
 }
 
+.card-one {
+  background-color: #e86033;
+}
+
+.card-two {
+  background-color: #fbd25e;
+}
+
+.card-three {
+  background-color: #e97065;
+}
+
 .watermelon {
   font-family: 'Rammetto One', cursive;
 }
